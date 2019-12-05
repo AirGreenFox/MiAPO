@@ -1,8 +1,5 @@
 <!Doctype html>
 <html>
-	<head>
-		<title>ПР 2 МиАПО</title>	
-	</head>
 	<body>
 		<h1>заголовок 1</h1>
 		<h2>заголоваок 2</h1>
